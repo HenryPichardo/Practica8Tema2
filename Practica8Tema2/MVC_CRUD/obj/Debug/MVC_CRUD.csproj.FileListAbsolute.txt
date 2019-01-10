@@ -1,0 +1,2 @@
+C:\Users\Henry Pichardo\source\repos\Practica8Tema2\MVC_CRUD\obj\Debug\MVC_CRUD.csprojAssemblyReference.cache
+C:\Users\Henry Pichardo\source\repos\Practica8Tema2\MVC_CRUD\obj\Debug\MVC_CRUD.csproj.CoreCompileInputs.cache
